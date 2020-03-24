@@ -59,15 +59,15 @@
 
 **首页**
 
-![image-20200324211513094](http://images.niki.life/image-20200324211513094.png)
+![image-20200324211513094](https://github.com/Nathan2020-0126/Db-Differ/blob/master/image-20200324211513094.png)
 
 **增加和读取数据库信息**
 
-![image-20200324211623144](http://images.niki.life/image-20200324211623144.png)
+![image-20200324211623144](https://github.com/Nathan2020-0126/Db-Differ/blob/master/image-20200324211623144.png)
 
 **批量维护数据库字段的描述信息**
 
-![image-20200324211710342](http://images.niki.life/image-20200324211710342.png)
+![image-20200324211710342](https://github.com/Nathan2020-0126/Db-Differ/blob/master/image-20200324211710342.png)
 
 ## 使用方法
 1. 下载压缩文件并解压缩
